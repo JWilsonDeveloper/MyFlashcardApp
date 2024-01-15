@@ -1,0 +1,476 @@
+﻿Question,Answer,Category,Subcategory1,Subcategory2, Subcategory3
+Who was the 1st president?,George Washington,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 2nd president?,John Adams,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 3rd president?,Thomas Jefferson,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 4th president?,James Madison,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 5th president?,James Monroe,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 6th president?,John Quincy Adams,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 7th president?,Andrew Jackson,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 8th president?,Martin Van Buren,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 9th president?,William Henry Harrison,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 10th president?,John Tyler,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 11th president?,James K. Polk,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 12th president?,Zachary Taylor,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 13th president?,Millard Fillmore,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 14th president?,Franklin Pierce,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 15th president?,James Buchanan,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 16th president?,Abraham Lincoln,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 17th president?,Andrew Johnson,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 18th president?,Ulysses S. Grant,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 19th president?,Rutherford B. Hayes,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 20th president?,James A. Garfield,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 21st president?,Chester A. Arthur,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 22nd president?,Grover Cleveland,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 23rd president?,Benjamin Harrison,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 24th president?,Grover Cleveland,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 25th president?,William McKinley,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 26th president?,Theodore Roosevelt,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 27th president?,William Howard Taft,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 28th president?,Woodrow Wilson,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 29th president?,Warren G. Harding,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 30th president?,Calvin Coolidge,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 31st president?,Herbert Hoover,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 32nd president?,Franklin D. Roosevelt,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 33rd president?,Harry S. Truman,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 34th president?,Dwight D. Eisenhower,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 35th president?,John F. Kennedy,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 36th president?,Lyndon B. Johnson,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 37th president?,Richard Nixon,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 38th president?,Gerald Ford,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 39th president?,Jimmy Carter,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 40th president?,Ronald Reagan,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 41st president?,George H. W. Bush,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 42nd president?,Bill Clinton,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 43rd president?,George W. Bush,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 44th president?,Barack Obama,History,U.S. Presidents,U.S. Presidents By Number
+Who was the 45th president?,Donald Trump,History,U.S. Presidents,U.S. Presidents By Number
+Who is the 46th president?,Joe Biden,History,U.S. Presidents,U.S. Presidents By Number
+
+Who was president from 1789 to 1797?,George Washington,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1797 to 1801?,John Adams,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1801 to 1809?,Thomas Jefferson,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1809 to 1817?,James Madison,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1817 to 1825?,James Monroe,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1825 to 1829?,John Quincy Adams,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1829 to 1837?,Andrew Jackson,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1837 to 1841?,Martin Van Buren,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1841 to 1841?,William Henry Harrison,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1841 to 1845?,John Tyler,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1845 to 1849?,James K. Polk,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1849 to 1850?,Zachary Taylor,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1850 to 1853?,Millard Fillmore,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1853 to 1857?,Franklin Pierce,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1857 to 1861?,James Buchanan,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1861 to 1865?,Abraham Lincoln,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1865 to 1869?,Andrew Johnson,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1869 to 1877?,Ulysses S. Grant,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1877 to 1881?,Rutherford B. Hayes,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1881 to 1881?,James A. Garfield,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1881 to 1885?,Chester A. Arthur,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1885 to 1889?,Grover Cleveland,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1889 to 1893?,Benjamin Harrison,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1893 to 1897?,Grover Cleveland,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1897 to 1901?,William McKinley,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1901 to 1909?,Theodore Roosevelt,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1909 to 1913?,William Howard Taft,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1913 to 1921?,Woodrow Wilson,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1921 to 1923?,Warren G. Harding,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1923 to 1929?,Calvin Coolidge,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1929 to 1933?,Herbert Hoover,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1933 to 1945?,Franklin D. Roosevelt,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1945 to 1953?,Harry S. Truman,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1953 to 1961?,Dwight D. Eisenhower,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1961 to 1963?,John F. Kennedy,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1963 to 1969?,Lyndon B. Johnson,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1969 to 1974?,Richard Nixon,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1974 to 1977?,Gerald Ford,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1977 to 1981?,Jimmy Carter,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1981 to 1989?,Ronald Reagan,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1989 to 1993?,George H. W. Bush,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 1993 to 2001?,Bill Clinton,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 2001 to 2009?,George W. Bush,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 2009 to 2017?,Barack Obama,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 2017 to 2021?,Donald Trump,History,U.S. Presidents,U.S. Presidents By Years in Office
+Who was president from 2021 to ?,Joe Biden,History,U.S. Presidents,U.S. Presidents By Years in Office
+
+What is the capital of Alabama?,Montgomery,Geography,U.S. State Capitals
+What is the capital of Alaska?,Juneau,Geography,U.S. State Capitals
+What is the capital of Arizona?,Phoenix,Geography,U.S. State Capitals
+What is the capital of Arkansas?,Little Rock,Geography,U.S. State Capitals
+What is the capital of California?,Sacramento,Geography,U.S. State Capitals
+What is the capital of Colorado?,Denver,Geography,U.S. State Capitals
+What is the capital of Connecticut?,Hartford,Geography,U.S. State Capitals
+What is the capital of Delaware?,Dover,Geography,U.S. State Capitals
+What is the capital of Florida?,Tallahassee,Geography,U.S. State Capitals
+What is the capital of Georgia?,Atlanta,Geography,U.S. State Capitals
+What is the capital of Hawaii?,Honolulu,Geography,U.S. State Capitals
+What is the capital of Idaho?,Boise,Geography,U.S. State Capitals
+What is the capital of Illinois?,Springfield,Geography,U.S. State Capitals
+What is the capital of Indiana?,Indianapolis,Geography,U.S. State Capitals
+What is the capital of Iowa?,Des Moines,Geography,U.S. State Capitals
+What is the capital of Kansas?,Topeka,Geography,U.S. State Capitals
+What is the capital of Kentucky?,Frankfort,Geography,U.S. State Capitals
+What is the capital of Louisiana?,Baton Rouge,Geography,U.S. State Capitals
+What is the capital of Maine?,Augusta,Geography,U.S. State Capitals
+What is the capital of Maryland?,Annapolis,Geography,U.S. State Capitals
+What is the capital of Massachusetts?,Boston,Geography,U.S. State Capitals
+What is the capital of Michigan?,Lansing,Geography,U.S. State Capitals
+What is the capital of Minnesota?,St. Paul,Geography,U.S. State Capitals
+What is the capital of Mississippi?,Jackson,Geography,U.S. State Capitals
+What is the capital of Missouri?,Jefferson City,Geography,U.S. State Capitals
+What is the capital of Montana?,Helena,Geography,U.S. State Capitals
+What is the capital of Nebraska?,Lincoln,Geography,U.S. State Capitals
+What is the capital of Nevada?,Carson City,Geography,U.S. State Capitals
+What is the capital of New Hampshire?,Concord,Geography,U.S. State Capitals
+What is the capital of New Jersey?,Trenton,Geography,U.S. State Capitals
+What is the capital of New Mexico?,Santa Fe,Geography,U.S. State Capitals
+What is the capital of New York?,Albany,Geography,U.S. State Capitals
+What is the capital of North Carolina?,Raleigh,Geography,U.S. State Capitals
+What is the capital of North Dakota?,Bismarck,Geography,U.S. State Capitals
+What is the capital of Ohio?,Columbus,Geography,U.S. State Capitals
+What is the capital of Oklahoma?,Oklahoma City,Geography,U.S. State Capitals
+What is the capital of Oregon?,Salem,Geography,U.S. State Capitals
+What is the capital of Pennsylvania?,Harrisburg,Geography,U.S. State Capitals
+What is the capital of Rhode Island?,Providence,Geography,U.S. State Capitals
+What is the capital of South Carolina?,Columbia,Geography,U.S. State Capitals
+What is the capital of South Dakota?,Pierre,Geography,U.S. State Capitals
+What is the capital of Tennessee?,Nashville,Geography,U.S. State Capitals
+What is the capital of Texas?,Austin,Geography,U.S. State Capitals
+What is the capital of Utah?,Salt Lake City,Geography,U.S. State Capitals
+What is the capital of Vermont?,Montpelier,Geography,U.S. State Capitals
+What is the capital of Virginia?,Richmond,Geography,U.S. State Capitals
+What is the capital of Washington?,Olympia,Geography,U.S. State Capitals
+What is the capital of West Virginia?,Charleston,Geography,U.S. State Capitals
+What is the capital of Wisconsin?,Madison,Geography,U.S. State Capitals
+What is the capital of Wyoming?,Cheyenne,Geography,U.S. State Capitals
+
+What is the capital of Afghanistan?,Kabul,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Armenia?,Yerevan,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Azerbaijan?,Baku,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Bahrain?,Manama,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Bangladesh?,Dhaka,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Bhutan?,Thimphu,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Brunei?,Bandar Seri Begawan,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Cambodia?,Phnom Penh,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of China?,Beijing,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of East Timor (Timor-Leste)?,Dili,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of India?,New Delhi,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Indonesia?,Jakarta,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Iran?,Tehran,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Iraq?,Baghdad,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Israel?,Jerusalem,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Japan?,Tokyo,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Jordan?,Amman,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Kazakhstan?,Nur-Sultan (formerly Astana),Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Kuwait?,Kuwait City,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Kyrgyzstan?,Bishkek,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Laos?,Vientiane,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Lebanon?,Beirut,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Malaysia?,Kuala Lumpur,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Maldives?,Male,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Mongolia?,Ulaanbaatar,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Myanmar (Burma)?,Naypyidaw,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Nepal?,Kathmandu,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of North Korea?,Pyongyang,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Oman?,Muscat,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Pakistan?,Islamabad,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Philippines?,Manila,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Qatar?,Doha,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Russia?,Moscow,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Saudi Arabia?,Riyadh,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Singapore?,Singapore,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of South Korea?,Seoul,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Sri Lanka?,Colombo (executive and judicial) Sri Jayawardenepura Kotte (legislative),Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Syria?,Damascus,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Taiwan?,Taipei,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Tajikistan?,Dushanbe,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Thailand?,Bangkok,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Turkey?,Ankara,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Turkmenistan?,Ashgabat,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of United Arab Emirates?,Abu Dhabi,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Uzbekistan?,Tashkent,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Vietnam?,Hanoi,Geography,Nation Capitals,Asian Country Capitals
+What is the capital of Yemen?,Sana'a,Geography,Nation Capitals,Asian Country Capitals
+
+What is the capital of Antigua and Barbuda?,St. John's,Geography,Nation Capitals,North American Country Capitals
+What is the capital of The Bahamas?,Nassau,Geography,Nation Capitals,North American Country Capitals
+What is the capital of Barbados?,Bridgetown,Geography,Nation Capitals,North American Country Capitals
+What is the capital of Belize?,Belmopan,Geography,Nation Capitals,North American Country Capitals
+What is the capital of Canada?,Ottawa,Geography,Nation Capitals,North American Country Capitals
+What is the capital of Costa Rica?,San José,Geography,Nation Capitals,North American Country Capitals
+What is the capital of Cuba?,Havana,Geography,Nation Capitals,North American Country Capitals
+What is the capital of Dominica?,Roseau,Geography,Nation Capitals,North American Country Capitals
+What is the capital of Dominican Republic?,Santo Domingo,Geography,Nation Capitals,North American Country Capitals
+What is the capital of El Salvador?,San Salvador,Geography,Nation Capitals,North American Country Capitals
+What is the capital of Grenada?,St. George's,Geography,Nation Capitals,North American Country Capitals
+What is the capital of Guatemala?,Guatemala City,Geography,Nation Capitals,North American Country Capitals
+What is the capital of Haiti?,Port-au-Prince,Geography,Nation Capitals,North American Country Capitals
+What is the capital of Honduras?,Tegucigalpa,Geography,Nation Capitals,North American Country Capitals
+What is the capital of Jamaica?,Kingston,Geography,Nation Capitals,North American Country Capitals
+What is the capital of Mexico?,Mexico City,Geography,Nation Capitals,North American Country Capitals
+What is the capital of Nicaragua?,Managua,Geography,Nation Capitals,North American Country Capitals
+What is the capital of Panama?,Panama City,Geography,Nation Capitals,North American Country Capitals
+What is the capital of Saint Kitts and Nevis?,Basseterre,Geography,Nation Capitals,North American Country Capitals
+What is the capital of Saint Lucia?,Castries,Geography,Nation Capitals,North American Country Capitals
+What is the capital of Saint Vincent and the Grenadines?,Kingstown,Geography,Nation Capitals,North American Country Capitals
+What is the capital of Trinidad and Tobago?,Port of Spain,Geography,Nation Capitals,North American Country Capitals
+What is the capital of United States?,Washington D.C.,Geography,Nation Capitals,North American Country Capitals
+
+What is the capital of Algeria?,Algiers,Geography,Nation Capitals,African Country Capitals
+What is the capital of Angola?,Luanda,Geography,Nation Capitals,African Country Capitals
+What is the capital of Benin?,Porto-Novo,Geography,Nation Capitals,African Country Capitals
+What is the capital of Botswana?,Gaborone,Geography,Nation Capitals,African Country Capitals
+What is the capital of Burkina Faso?,Ouagadougou,Geography,Nation Capitals,African Country Capitals
+What is the capital of Burundi?,Bujumbura,Geography,Nation Capitals,African Country Capitals
+What is the capital of Cabo Verde?,Praia,Geography,Nation Capitals,African Country Capitals
+What is the capital of Cameroon?,Yaoundé,Geography,Nation Capitals,African Country Capitals
+What is the capital of Central African Republic?,Bangui,Geography,Nation Capitals,African Country Capitals
+What is the capital of Chad?,N'Djamena,Geography,Nation Capitals,African Country Capitals
+What is the capital of Comoros?,Moroni,Geography,Nation Capitals,African Country Capitals
+What is the capital of Democratic Republic of the Congo?,Kinshasa,Geography,Nation Capitals,African Country Capitals
+What is the capital of Djibouti?,Djibouti City,Geography,Nation Capitals,African Country Capitals
+What is the capital of Egypt?,Cairo,Geography,Nation Capitals,African Country Capitals
+What is the capital of Equatorial Guinea?,Malabo,Geography,Nation Capitals,African Country Capitals
+What is the capital of Eritrea?,Asmara,Geography,Nation Capitals,African Country Capitals
+What is the capital of Eswatini?,Mbabane (administrative) Lobamba (royal and legislative),Geography,Nation Capitals,African Country Capitals
+What is the capital of Ethiopia?,Addis Ababa,Geography,Nation Capitals,African Country Capitals
+What is the capital of Gabon?,Libreville,Geography,Nation Capitals,African Country Capitals
+What is the capital of The Gambia?,Banjul,Geography,Nation Capitals,African Country Capitals
+What is the capital of Ghana?,Accra,Geography,Nation Capitals,African Country Capitals
+What is the capital of Guinea?,Conakry,Geography,Nation Capitals,African Country Capitals
+What is the capital of Guinea-Bissau?,Bissau,Geography,Nation Capitals,African Country Capitals
+What is the capital of Ivory Coast?,Yamoussoukro (official) Abidjan (de facto),Geography,Nation Capitals,African Country Capitals
+What is the capital of Kenya?,Nairobi,Geography,Nation Capitals,African Country Capitals
+What is the capital of Lesotho?,Maseru,Geography,Nation Capitals,African Country Capitals
+What is the capital of Liberia?,Monrovia,Geography,Nation Capitals,African Country Capitals
+What is the capital of Libya?,Tripoli,Geography,Nation Capitals,African Country Capitals
+What is the capital of Madagascar?,Antananarivo,Geography,Nation Capitals,African Country Capitals
+What is the capital of Malawi?,Lilongwe,Geography,Nation Capitals,African Country Capitals
+What is the capital of Mali?,Bamako,Geography,Nation Capitals,African Country Capitals
+What is the capital of Mauritania?,Nouakchott,Geography,Nation Capitals,African Country Capitals
+What is the capital of Mauritius?,Port Louis,Geography,Nation Capitals,African Country Capitals
+What is the capital of Morocco?,Rabat,Geography,Nation Capitals,African Country Capitals
+What is the capital of Mozambique?,Maputo,Geography,Nation Capitals,African Country Capitals
+What is the capital of Namibia?,Windhoek,Geography,Nation Capitals,African Country Capitals
+What is the capital of Niger?,Niamey,Geography,Nation Capitals,African Country Capitals
+What is the capital of Nigeria?,Abuja,Geography,Nation Capitals,African Country Capitals
+What is the capital of Republic of the Congo?,Brazzaville,Geography,Nation Capitals,African Country Capitals
+What is the capital of Rwanda?,Kigali,Geography,Nation Capitals,African Country Capitals
+What is the capital of Sao Tome and Principe?,São Tomé,Geography,Nation Capitals,African Country Capitals
+What is the capital of Senegal?,Dakar,Geography,Nation Capitals,African Country Capitals
+What is the capital of Seychelles?,Victoria,Geography,Nation Capitals,African Country Capitals
+What is the capital of Sierra Leone?,Freetown,Geography,Nation Capitals,African Country Capitals
+What is the capital of Somalia?,Mogadishu,Geography,Nation Capitals,African Country Capitals
+What is the capital of South Africa?,Pretoria (administrative) Cape Town (legislative) Bloemfontein (judicial),Geography,Nation Capitals,African Country Capitals
+What is the capital of South Sudan?,Juba,Geography,Nation Capitals,African Country Capitals
+What is the capital of Sudan?,Khartoum,Geography,Nation Capitals,African Country Capitals
+What is the capital of Tanzania?,Dodoma (official) Dar es Salaam (de facto),Geography,Nation Capitals,African Country Capitals
+What is the capital of Togo?,Lomé,Geography,Nation Capitals,African Country Capitals
+What is the capital of Tunisia?,Tunis,Geography,Nation Capitals,African Country Capitals
+What is the capital of Uganda?,Kampala,Geography,Nation Capitals,African Country Capitals
+What is the capital of Zambia?,Lusaka,Geography,Nation Capitals,African Country Capitals
+What is the capital of Zimbabwe?,Harare,Geography,Nation Capitals,African Country Capitals
+
+What is the capital of Albania?,Tirana,Geography,Nation Capitals,European Country Capitals
+What is the capital of Andorra?,Andorra la Vella,Geography,Nation Capitals,European Country Capitals
+What is the capital of Austria?,Vienna,Geography,Nation Capitals,European Country Capitals
+What is the capital of Belarus?,Minsk,Geography,Nation Capitals,European Country Capitals
+What is the capital of Belgium?,Brussels,Geography,Nation Capitals,European Country Capitals
+What is the capital of Bosnia and Herzegovina?,Sarajevo,Geography,Nation Capitals,European Country Capitals
+What is the capital of Bulgaria?,Sofia,Geography,Nation Capitals,European Country Capitals
+What is the capital of Croatia?,Zagreb,Geography,Nation Capitals,European Country Capitals
+What is the capital of Cyprus?,Nicosia,Geography,Nation Capitals,European Country Capitals
+What is the capital of Czech Republic?,Prague,Geography,Nation Capitals,European Country Capitals
+What is the capital of Denmark?,Copenhagen,Geography,Nation Capitals,European Country Capitals
+What is the capital of Estonia?,Tallinn,Geography,Nation Capitals,European Country Capitals
+What is the capital of Finland?,Helsinki,Geography,Nation Capitals,European Country Capitals
+What is the capital of France?,Paris,Geography,Nation Capitals,European Country Capitals
+What is the capital of Georgia?,Tbilisi,Geography,Nation Capitals,European Country Capitals
+What is the capital of Germany?,Berlin,Geography,Nation Capitals,European Country Capitals
+What is the capital of Greece?,Athens,Geography,Nation Capitals,European Country Capitals
+What is the capital of Hungary?,Budapest,Geography,Nation Capitals,European Country Capitals
+What is the capital of Iceland?,Reykjavik,Geography,Nation Capitals,European Country Capitals
+What is the capital of Ireland?,Dublin,Geography,Nation Capitals,European Country Capitals
+What is the capital of Italy?,Rome,Geography,Nation Capitals,European Country Capitals
+What is the capital of Kosovo?,Pristina,Geography,Nation Capitals,European Country Capitals
+What is the capital of Latvia?,Riga,Geography,Nation Capitals,European Country Capitals
+What is the capital of Liechtenstein?,Vaduz,Geography,Nation Capitals,European Country Capitals
+What is the capital of Lithuania?,Vilnius,Geography,Nation Capitals,European Country Capitals
+What is the capital of Luxembourg?,Luxembourg City,Geography,Nation Capitals,European Country Capitals
+What is the capital of Malta?,Valletta,Geography,Nation Capitals,European Country Capitals
+What is the capital of Moldova?,Chisinau,Geography,Nation Capitals,European Country Capitals
+What is the capital of Monaco?,Monaco,Geography,Nation Capitals,European Country Capitals
+What is the capital of Montenegro?,Podgorica,Geography,Nation Capitals,European Country Capitals
+What is the capital of Netherlands?,Amsterdam (official) The Hague (seat of government),Geography,Nation Capitals,European Country Capitals
+What is the capital of North Macedonia?,Skopje,Geography,Nation Capitals,European Country Capitals
+What is the capital of Norway?,Oslo,Geography,Nation Capitals,European Country Capitals
+What is the capital of Poland?,Warsaw,Geography,Nation Capitals,European Country Capitals
+What is the capital of Portugal?,Lisbon,Geography,Nation Capitals,European Country Capitals
+What is the capital of Romania?,Bucharest,Geography,Nation Capitals,European Country Capitals
+What is the capital of San Marino?,San Marino,Geography,Nation Capitals,European Country Capitals
+What is the capital of Serbia?,Belgrade,Geography,Nation Capitals,European Country Capitals
+What is the capital of Slovakia?,Bratislava,Geography,Nation Capitals,European Country Capitals
+What is the capital of Slovenia?,Ljubljana,Geography,Nation Capitals,European Country Capitals
+What is the capital of Spain?,Madrid,Geography,Nation Capitals,European Country Capitals
+What is the capital of Sweden?,Stockholm,Geography,Nation Capitals,European Country Capitals
+What is the capital of Switzerland?,Bern,Geography,Nation Capitals,European Country Capitals
+What is the capital of Ukraine?,Kyiv,Geography,Nation Capitals,European Country Capitals
+What is the capital of United Kingdom?,London,Geography,Nation Capitals,European Country Capitals
+What is the capital of Vatican City?,Vatican City,Geography,Nation Capitals,European Country Capitals
+
+What is the capital of Argentina?,Buenos Aires,Geography,Nation Capitals,South American Country Capitals
+What is the capital of Bolivia?,La Paz (administrative) Sucre (constitutional),Geography,Nation Capitals,South American Country Capitals
+What is the capital of Brazil?,Brasília,Geography,Nation Capitals,South American Country Capitals
+What is the capital of Chile?,Santiago,Geography,Nation Capitals,South American Country Capitals
+What is the capital of Colombia?,Bogotá,Geography,Nation Capitals,South American Country Capitals
+What is the capital of Ecuador?,Quito,Geography,Nation Capitals,South American Country Capitals
+What is the capital of Guyana?,Georgetown,Geography,Nation Capitals,South American Country Capitals
+What is the capital of Paraguay?,Asunción,Geography,Nation Capitals,South American Country Capitals
+What is the capital of Peru?,Lima,Geography,Nation Capitals,South American Country Capitals
+What is the capital of Suriname?,Paramaribo,Geography,Nation Capitals,South American Country Capitals
+What is the capital of Uruguay?,Montevideo,Geography,Nation Capitals,South American Country Capitals
+What is the capital of Venezuela?,Caracas,Geography,Nation Capitals,South American Country Capitals
+
+What is the capital of Australia?,Canberra,Geography,Nation Capitals,Oceanic Country Capitals
+What is the capital of Fiji?,Suva,Geography,Nation Capitals,Oceanic Country Capitals
+What is the capital of Kiribati?,Tarawa Atoll,Geography,Nation Capitals,Oceanic Country Capitals
+What is the capital of Marshall Islands?,Majuro,Geography,Nation Capitals,Oceanic Country Capitals
+What is the capital of Micronesia?,Palikir,Geography,Nation Capitals,Oceanic Country Capitals
+What is the capital of Nauru?,Yaren,Geography,Nation Capitals,Oceanic Country Capitals
+What is the capital of New Zealand?,Wellington,Geography,Nation Capitals,Oceanic Country Capitals
+What is the capital of Palau?,Ngerulmud,Geography,Nation Capitals,Oceanic Country Capitals
+What is the capital of Papua New Guinea?,Port Moresby,Geography,Nation Capitals,Oceanic Country Capitals
+What is the capital of Samoa?,Apia,Geography,Nation Capitals,Oceanic Country Capitals
+What is the capital of Solomon Islands?,Honiara,Geography,Nation Capitals,Oceanic Country Capitals
+What is the capital of Tonga?,Nuku'alofa,Geography,Nation Capitals,Oceanic Country Capitals
+What is the capital of Tuvalu?,Funafuti,Geography,Nation Capitals,Oceanic Country Capitals
+What is the capital of Vanuatu?,Port Vila,Geography,Nation Capitals,Oceanic Country Capitals
+
+
+What is the 1st planet from the sun?,Mercury,Science,Planets By Number
+What is the 2nd planet from the sun?,Venus,Science,Planets By Number
+What is the 3rd planet from the sun?,Earth,Science,Planets By Number
+What is the 4th planet from the sun?,Mars,Science,Planets By Number
+What is the 5th planet from the sun?,Jupiter,Science,Planets By Number
+What is the 6th planet from the sun?,Saturn,Science,Planets By Number
+What is the 7th planet from the sun?,Uranus,Science,Planets By Number
+What is the 8th planet from the sun?,Neptune,Science,Planets By Number
+
+Which element is represented as H?,Hydrogen,Science,Element Symbols
+Which element is represented as He?,Helium,Science,Element Symbols
+Which element is represented as Li?,Lithium,Science,Element Symbols
+Which element is represented as Be?,Beryllium,Science,Element Symbols
+Which element is represented as B?,Boron,Science,Element Symbols
+Which element is represented as C?,Carbon,Science,Element Symbols
+Which element is represented as N?,Nitrogen,Science,Element Symbols
+Which element is represented as O?,Oxygen,Science,Element Symbols
+Which element is represented as F?,Fluorine,Science,Element Symbols
+Which element is represented as Ne?,Neon,Science,Element Symbols
+Which element is represented as Na?,Sodium,Science,Element Symbols
+Which element is represented as Mg?,Magnesium,Science,Element Symbols
+Which element is represented as Al?,Aluminum,Science,Element Symbols
+Which element is represented as Si?,Silicon,Science,Element Symbols
+Which element is represented as P?,Phosphorus,Science,Element Symbols
+Which element is represented as S?,Sulfur,Science,Element Symbols
+Which element is represented as Cl?,Chlorine,Science,Element Symbols
+Which element is represented as Ar?,Argon,Science,Element Symbols
+Which element is represented as K?,Potassium,Science,Element Symbols
+Which element is represented as Ca?,Calcium,Science,Element Symbols
+Which element is represented as Sc?,Scandium,Science,Element Symbols
+Which element is represented as Ti?,Titanium,Science,Element Symbols
+Which element is represented as V?,Vanadium,Science,Element Symbols
+Which element is represented as Cr?,Chromium,Science,Element Symbols
+Which element is represented as Mn?,Manganese,Science,Element Symbols
+Which element is represented as Fe?,Iron,Science,Element Symbols
+Which element is represented as Co?,Cobalt,Science,Element Symbols
+Which element is represented as Ni?,Nickel,Science,Element Symbols
+Which element is represented as Cu?,Copper,Science,Element Symbols
+Which element is represented as Zn?,Zinc,Science,Element Symbols
+Which element is represented as Ga?,Gallium,Science,Element Symbols
+Which element is represented as Ge?,Germanium,Science,Element Symbols
+Which element is represented as As?,Arsenic,Science,Element Symbols
+Which element is represented as Se?,Selenium,Science,Element Symbols
+Which element is represented as Br?,Bromine,Science,Element Symbols
+Which element is represented as Kr?,Krypton,Science,Element Symbols
+Which element is represented as Rb?,Rubidium,Science,Element Symbols
+Which element is represented as Sr?,Strontium,Science,Element Symbols
+Which element is represented as Y?,Yttrium,Science,Element Symbols
+Which element is represented as Zr?,Zirconium,Science,Element Symbols
+Which element is represented as Nb?,Niobium,Science,Element Symbols
+Which element is represented as Mo?,Molybdenum,Science,Element Symbols
+Which element is represented as Tc?,Technetium,Science,Element Symbols
+Which element is represented as Ru?,Ruthenium,Science,Element Symbols
+Which element is represented as Rh?,Rhodium,Science,Element Symbols
+Which element is represented as Pd?,Palladium,Science,Element Symbols
+Which element is represented as Ag?,Silver,Science,Element Symbols
+Which element is represented as Cd?,Cadmium,Science,Element Symbols
+Which element is represented as In?,Indium,Science,Element Symbols
+Which element is represented as Sn?,Tin,Science,Element Symbols
+Which element is represented as Sb?,Antimony,Science,Element Symbols
+Which element is represented as Te?,Tellurium,Science,Element Symbols
+Which element is represented as I?,Iodine,Science,Element Symbols
+Which element is represented as Xe?,Xenon,Science,Element Symbols
+Which element is represented as Cs?,Cesium,Science,Element Symbols
+Which element is represented as Ba?,Barium,Science,Element Symbols
+Which element is represented as La?,Lanthanum,Science,Element Symbols
+Which element is represented as Ce?,Cerium,Science,Element Symbols
+Which element is represented as Pr?,Praseodymium,Science,Element Symbols
+Which element is represented as Nd?,Neodymium,Science,Element Symbols
+Which element is represented as Pm?,Promethium,Science,Element Symbols
+Which element is represented as Sm?,Samarium,Science,Element Symbols
+Which element is represented as Eu?,Europium,Science,Element Symbols
+Which element is represented as Gd?,Gadolinium,Science,Element Symbols
+Which element is represented as Tb?,Terbium,Science,Element Symbols
+Which element is represented as Dy?,Dysprosium,Science,Element Symbols
+Which element is represented as Ho?,Holmium,Science,Element Symbols
+Which element is represented as Er?,Erbium,Science,Element Symbols
+Which element is represented as Tm?,Thulium,Science,Element Symbols
+Which element is represented as Yb?,Ytterbium,Science,Element Symbols
+Which element is represented as Lu?,Lutetium,Science,Element Symbols
+Which element is represented as Hf?,Hafnium,Science,Element Symbols
+Which element is represented as Ta?,Tantalum,Science,Element Symbols
+Which element is represented as W?,Tungsten,Science,Element Symbols
+Which element is represented as Re?,Rhenium,Science,Element Symbols
+Which element is represented as Os?,Osmium,Science,Element Symbols
+Which element is represented as Ir?,Iridium,Science,Element Symbols
+Which element is represented as Pt?,Platinum,Science,Element Symbols
+Which element is represented as Au?,Gold,Science,Element Symbols
+Which element is represented as Hg?,Mercury,Science,Element Symbols
+Which element is represented as Tl?,Thallium,Science,Element Symbols
+Which element is represented as Pb?,Lead,Science,Element Symbols
+Which element is represented as Bi?,Bismuth,Science,Element Symbols
+Which element is represented as Po?,Polonium,Science,Element Symbols
+Which element is represented as At?,Astatine,Science,Element Symbols
+Which element is represented as Rn?,Radon,Science,Element Symbols
+Which element is represented as Fr?,Francium,Science,Element Symbols
+Which element is represented as Ra?,Radium,Science,Element Symbols
+Which element is represented as Ac?,Actinium,Science,Element Symbols
+Which element is represented as Th?,Thorium,Science,Element Symbols
+Which element is represented as Pa?,Protactinium,Science,Element Symbols
+Which element is represented as U?,Uranium,Science,Element Symbols
+Which element is represented as Np?,Neptunium,Science,Element Symbols
+Which element is represented as Pu?,Plutonium,Science,Element Symbols
+Which element is represented as Am?,Americium,Science,Element Symbols
+Which element is represented as Cm?,Curium,Science,Element Symbols
+Which element is represented as Bk?,Berkelium,Science,Element Symbols
+Which element is represented as Cf?,Californium,Science,Element Symbols
+Which element is represented as Es?,Einsteinium,Science,Element Symbols
+Which element is represented as Fm?,Fermium,Science,Element Symbols
+Which element is represented as Md?,Mendelevium,Science,Element Symbols
+Which element is represented as No?,Nobelium,Science,Element Symbols
+Which element is represented as Lr?,Lawrencium,Science,Element Symbols
+Which element is represented as Rf?,Rutherfordium,Science,Element Symbols
+Which element is represented as Db?,Dubnium,Science,Element Symbols
+Which element is represented as Sg?,Seaborgium,Science,Element Symbols
+Which element is represented as Bh?,Bohrium,Science,Element Symbols
+Which element is represented as Hs?,Hassium,Science,Element Symbols
+Which element is represented as Mt?,Meitnerium,Science,Element Symbols
+Which element is represented as Ds?,Darmstadtium,Science,Element Symbols
+Which element is represented as Rg?,Roentgenium,Science,Element Symbols
+Which element is represented as Cn?,Copernicium,Science,Element Symbols
+Which element is represented as Nh?,Nihonium,Science,Element Symbols
+Which element is represented as Fl?,Flerovium,Science,Element Symbols
+Which element is represented as Mc?,Moscovium,Science,Element Symbols
+Which element is represented as Lv?,Livermorium,Science,Element Symbols
+Which element is represented as Ts?,Tennessine,Science,Element Symbols
+Which element is represented as Og?,Oganesson,Science,Element Symbols
