@@ -1,4 +1,5 @@
 Application Title: MyFlashcardApp
+
 Application Purpose: This program is a console application for reviewing selections of questions and answers. New flashcards must be manually added to the CardInfo.csv file.
 
 Author: James Wilson
